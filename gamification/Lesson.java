@@ -1,5 +1,4 @@
-
-
+package gamification;
 
 // Base class for all educational lessons
 public class Lesson {

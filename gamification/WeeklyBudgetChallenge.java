@@ -1,6 +1,4 @@
-
-
-
+package gamification;
 
 public class WeeklyBudgetChallenge extends Challenge {
     public double budgetLimit;

@@ -1,4 +1,5 @@
 
+package gamification;
 
 public class GamificationEngine {
     private int userXP;

@@ -1,4 +1,5 @@
 
+package gamification;
 
 // InvestingLesson IS-A Lesson
 public class InvestingLesson extends Lesson {

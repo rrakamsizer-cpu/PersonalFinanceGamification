@@ -1,4 +1,5 @@
 
+package gamification;
 
 public class Challenge {
     public String title;
